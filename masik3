@@ -1,0 +1,2092 @@
+Windows Exploit Suggester 1.02 ( https://github.com/bitsadmin/wesng/ )
+[+] Parsing systeminfo output
+[+] Operating System
+    - Name: Windows 10 Version 21H1 for x64-based Systems
+    - Generation: 10
+    - Build: 19044
+    - Version: 21H1
+    - Architecture: x64-based
+    - Installed hotfixes (11): KB5009467, KB4537759, KB4557968, KB4577586, KB4584229, KB5003791, KB5009596, KB5006753, KB5007273, KB5009636, KB5005699
+[+] Loading definitions
+    - Creation date of definitions: 20220121
+[+] Determining missing patches
+[!] Found vulnerabilities!
+
+Date: 20211109
+CVE: CVE-2021-36957
+KB: KB5007186
+Title: Windows Desktop Bridge Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-36957
+KB: KB5007186
+Title: Windows Desktop Bridge Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-38631
+KB: KB5007186
+Title: Windows Remote Desktop Protocol (RDP) Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-38631
+KB: KB5007186
+Title: Windows Remote Desktop Protocol (RDP) Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41366
+KB: KB5007186
+Title: Credential Security Support Provider Protocol (CredSSP) Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41366
+KB: KB5007186
+Title: Credential Security Support Provider Protocol (CredSSP) Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41367
+KB: KB5007186
+Title: NTFS Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41367
+KB: KB5007186
+Title: NTFS Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41371
+KB: KB5007186
+Title: Windows Remote Desktop Protocol (RDP) Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41371
+KB: KB5007186
+Title: Windows Remote Desktop Protocol (RDP) Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20211115
+CVE: CVE-2021-41377
+KB: KB5007186
+Title: Windows Fast FAT File System Driver Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211115
+CVE: CVE-2021-41377
+KB: KB5007186
+Title: Windows Fast FAT File System Driver Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41378
+KB: KB5007186
+Title: Windows NTFS Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41378
+KB: KB5007186
+Title: Windows NTFS Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41379
+KB: KB5007186
+Title: Windows Installer Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41379
+KB: KB5007186
+Title: Windows Installer Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211112
+CVE: CVE-2021-26443
+KB: KB5007186
+Title: Microsoft Virtual Machine Bus (VMBus) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20211112
+CVE: CVE-2021-26443
+KB: KB5007186
+Title: Microsoft Virtual Machine Bus (VMBus) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42274
+KB: KB5007186
+Title: Windows Hyper-V Discrete Device Assignment (DDA) Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42274
+KB: KB5007186
+Title: Windows Hyper-V Discrete Device Assignment (DDA) Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42275
+KB: KB5007186
+Title: Microsoft COM for Windows Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42275
+KB: KB5007186
+Title: Microsoft COM for Windows Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42276
+KB: KB5007186
+Title: Microsoft Windows Media Foundation Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42276
+KB: KB5007186
+Title: Microsoft Windows Media Foundation Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42279
+KB: KB5007186
+Title: Chakra Scripting Engine Memory Corruption Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42279
+KB: KB5007186
+Title: Chakra Scripting Engine Memory Corruption Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42280
+KB: KB5007186
+Title: Windows Feedback Hub Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42280
+KB: KB5007186
+Title: Windows Feedback Hub Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-38665
+KB: KB5007186
+Title: Remote Desktop Protocol Client Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-38665
+KB: KB5007186
+Title: Remote Desktop Protocol Client Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-38666
+KB: KB5007186
+Title: Remote Desktop Client Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-38666
+KB: KB5007186
+Title: Remote Desktop Client Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41351
+KB: KB5007186
+Title: Microsoft Edge (Chrome based) Spoofing on IE Mode
+Affected product: Microsoft Edge (Chromium-based) in IE Mode on Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Spoofing
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41351
+KB: KB5007186
+Title: Microsoft Edge (Chrome based) Spoofing on IE Mode
+Affected product: Microsoft Edge (Chromium-based) in IE Mode on Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Spoofing
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41356
+KB: KB5007186
+Title: Windows Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41356
+KB: KB5007186
+Title: Windows Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41370
+KB: KB5007186
+Title: NTFS Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-41370
+KB: KB5007186
+Title: NTFS Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42277
+KB: KB5007186
+Title: Diagnostics Hub Standard Collector Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42277
+KB: KB5007186
+Title: Diagnostics Hub Standard Collector Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42283
+KB: KB5007186
+Title: NTFS Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42283
+KB: KB5007186
+Title: NTFS Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42284
+KB: KB5007186
+Title: Windows Hyper-V Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42284
+KB: KB5007186
+Title: Windows Hyper-V Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42285
+KB: KB5007186
+Title: Windows Kernel Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42285
+KB: KB5007186
+Title: Windows Kernel Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42286
+KB: KB5007186
+Title: Windows Core Shell SI Host Extension Framework for Composable Shell Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42286
+KB: KB5007186
+Title: Windows Core Shell SI Host Extension Framework for Composable Shell Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42288
+KB: KB5007186
+Title: Windows Hello Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20211109
+CVE: CVE-2021-42288
+KB: KB5007186
+Title: Windows Hello Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21852
+KB: KB5009543
+Title: Windows DWM Core Library Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21852
+KB: KB5009543
+Title: Windows DWM Core Library Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2021-22947
+KB: KB5009543
+Title: Open Source Curl Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2021-22947
+KB: KB5009543
+Title: Open Source Curl Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2021-36976
+KB: KB5009543
+Title: Libarchive Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2021-36976
+KB: KB5009543
+Title: Libarchive Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21919
+KB: KB5009543
+Title: Windows User Profile Service Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21919
+KB: KB5009543
+Title: Windows User Profile Service Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21918
+KB: KB5009543
+Title: DirectX Graphics Kernel File Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21918
+KB: KB5009543
+Title: DirectX Graphics Kernel File Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21915
+KB: KB5009543
+Title: Windows GDI+ Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21915
+KB: KB5009543
+Title: Windows GDI+ Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21833
+KB: KB5009543
+Title: Virtual Machine IDE Drive Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21833
+KB: KB5009543
+Title: Virtual Machine IDE Drive Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21834
+KB: KB5009543
+Title: Windows User-mode Driver Framework Reflector Driver Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21834
+KB: KB5009543
+Title: Windows User-mode Driver Framework Reflector Driver Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21835
+KB: KB5009543
+Title: Microsoft Cryptographic Services Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21835
+KB: KB5009543
+Title: Microsoft Cryptographic Services Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21836
+KB: KB5009543
+Title: Windows Certificate Spoofing Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Spoofing
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21836
+KB: KB5009543
+Title: Windows Certificate Spoofing Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Spoofing
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21838
+KB: KB5009543
+Title: Windows Cleanup Manager Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21838
+KB: KB5009543
+Title: Windows Cleanup Manager Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21857
+KB: KB5009543
+Title: Active Directory Domain Services Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21857
+KB: KB5009543
+Title: Active Directory Domain Services Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21858
+KB: KB5009543
+Title: Windows Bind Filter Driver Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21858
+KB: KB5009543
+Title: Windows Bind Filter Driver Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21859
+KB: KB5009543
+Title: Windows Accounts Control Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21859
+KB: KB5009543
+Title: Windows Accounts Control Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21860
+KB: KB5009543
+Title: Windows AppContracts API Server Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21860
+KB: KB5009543
+Title: Windows AppContracts API Server Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21861
+KB: KB5009543
+Title: Task Flow Data Engine Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21861
+KB: KB5009543
+Title: Task Flow Data Engine Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21862
+KB: KB5009543
+Title: Windows Application Model Core API Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21862
+KB: KB5009543
+Title: Windows Application Model Core API Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21863
+KB: KB5009543
+Title: Windows StateRepository API Server file Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21863
+KB: KB5009543
+Title: Windows StateRepository API Server file Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21864
+KB: KB5009543
+Title: Windows UI Immersive Server API Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21864
+KB: KB5009543
+Title: Windows UI Immersive Server API Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21865
+KB: KB5009543
+Title: Connected Devices Platform Service Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21865
+KB: KB5009543
+Title: Connected Devices Platform Service Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21866
+KB: KB5009543
+Title: Windows System Launcher Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21866
+KB: KB5009543
+Title: Windows System Launcher Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21867
+KB: KB5009543
+Title: Windows Push Notifications Apps Elevation Of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21867
+KB: KB5009543
+Title: Windows Push Notifications Apps Elevation Of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21868
+KB: KB5009543
+Title: Windows Devices Human Interface Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21868
+KB: KB5009543
+Title: Windows Devices Human Interface Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21869
+KB: KB5009543
+Title: Clipboard User Service Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21869
+KB: KB5009543
+Title: Clipboard User Service Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21870
+KB: KB5009543
+Title: Tablet Windows User Interface Application Core Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21870
+KB: KB5009543
+Title: Tablet Windows User Interface Application Core Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21871
+KB: KB5009543
+Title: Microsoft Diagnostics Hub Standard Collector Runtime Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21871
+KB: KB5009543
+Title: Microsoft Diagnostics Hub Standard Collector Runtime Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21872
+KB: KB5009543
+Title: Windows Event Tracing Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21872
+KB: KB5009543
+Title: Windows Event Tracing Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21873
+KB: KB5009543
+Title: Tile Data Repository Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21873
+KB: KB5009543
+Title: Tile Data Repository Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21874
+KB: KB5009543
+Title: Windows Security Center API Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21874
+KB: KB5009543
+Title: Windows Security Center API Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21875
+KB: KB5009543
+Title: Windows Storage Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21875
+KB: KB5009543
+Title: Windows Storage Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21876
+KB: KB5009543
+Title: Win32k Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21876
+KB: KB5009543
+Title: Win32k Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21877
+KB: KB5009543
+Title: Storage Spaces Controller Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21877
+KB: KB5009543
+Title: Storage Spaces Controller Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21878
+KB: KB5009543
+Title: Windows Geolocation Service Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21878
+KB: KB5009543
+Title: Windows Geolocation Service Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21879
+KB: KB5009543
+Title: Windows Kernel Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21879
+KB: KB5009543
+Title: Windows Kernel Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220114
+CVE: CVE-2022-21880
+KB: KB5009543
+Title: Windows GDI+ Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20220114
+CVE: CVE-2022-21880
+KB: KB5009543
+Title: Windows GDI+ Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21881
+KB: KB5009543
+Title: Windows Kernel Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21881
+KB: KB5009543
+Title: Windows Kernel Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220113
+CVE: CVE-2022-21882
+KB: KB5009543
+Title: Win32k Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220113
+CVE: CVE-2022-21882
+KB: KB5009543
+Title: Win32k Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21843
+KB: KB5009543
+Title: Windows IKE Extension Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21843
+KB: KB5009543
+Title: Windows IKE Extension Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21883
+KB: KB5009543
+Title: Windows IKE Extension Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21883
+KB: KB5009543
+Title: Windows IKE Extension Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21885
+KB: KB5009543
+Title: Windows Remote Access Connection Manager Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21885
+KB: KB5009543
+Title: Windows Remote Access Connection Manager Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21888
+KB: KB5009543
+Title: Windows Modern Execution Server Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21888
+KB: KB5009543
+Title: Windows Modern Execution Server Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21892
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21892
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220113
+CVE: CVE-2022-21893
+KB: KB5009543
+Title: Remote Desktop Protocol Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220113
+CVE: CVE-2022-21893
+KB: KB5009543
+Title: Remote Desktop Protocol Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21894
+KB: KB5009543
+Title: Secure Boot Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21894
+KB: KB5009543
+Title: Secure Boot Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21900
+KB: KB5009543
+Title: Windows Hyper-V Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21900
+KB: KB5009543
+Title: Windows Hyper-V Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21901
+KB: KB5009543
+Title: Windows Hyper-V Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21901
+KB: KB5009543
+Title: Windows Hyper-V Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21902
+KB: KB5009543
+Title: Windows DWM Core Library Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21902
+KB: KB5009543
+Title: Windows DWM Core Library Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21904
+KB: KB5009543
+Title: Windows GDI Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21904
+KB: KB5009543
+Title: Windows GDI Information Disclosure Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Information Disclosure
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21905
+KB: KB5009543
+Title: Windows Hyper-V Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21905
+KB: KB5009543
+Title: Windows Hyper-V Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21906
+KB: KB5009543
+Title: Windows Defender Application Control Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21906
+KB: KB5009543
+Title: Windows Defender Application Control Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220112
+CVE: CVE-2022-21907
+KB: KB5009543
+Title: HTTP Protocol Stack Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.nu11secur1ty.com/2022/01/cve-2022-21907.html, https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907, http://packetstormsecurity.com/files/165566/HTTP-Protocol-Stack-Denial-Of-Service-Remote-Code-Execution.html
+
+Date: 20220112
+CVE: CVE-2022-21907
+KB: KB5009543
+Title: HTTP Protocol Stack Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.nu11secur1ty.com/2022/01/cve-2022-21907.html, https://github.com/nu11secur1ty/Windows10Exploits/tree/master/2022/CVE-2022-21907, http://packetstormsecurity.com/files/165566/HTTP-Protocol-Stack-Denial-Of-Service-Remote-Code-Execution.html
+
+Date: 20220111
+CVE: CVE-2022-21908
+KB: KB5009543
+Title: Windows Installer Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21908
+KB: KB5009543
+Title: Windows Installer Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21911
+KB: KB5008876
+Title: .NET Framework Denial of Service Vulnerability
+Affected product: Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21912
+KB: KB5009543
+Title: DirectX Graphics Kernel Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21912
+KB: KB5009543
+Title: DirectX Graphics Kernel Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220113
+CVE: CVE-2022-21913
+KB: KB5009543
+Title: Local Security Authority (Domain Policy) Remote Protocol Security Feature Bypass
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220113
+CVE: CVE-2022-21913
+KB: KB5009543
+Title: Local Security Authority (Domain Policy) Remote Protocol Security Feature Bypass
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21924
+KB: KB5009543
+Title: Workstation Service Remote Protocol Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21924
+KB: KB5009543
+Title: Workstation Service Remote Protocol Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21958
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21958
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21959
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21959
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21960
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21960
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21961
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21961
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21962
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21962
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21963
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21963
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21847
+KB: KB5009543
+Title: Windows Hyper-V Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21847
+KB: KB5009543
+Title: Windows Hyper-V Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21922
+KB: KB5009543
+Title: Remote Procedure Call Runtime Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21922
+KB: KB5009543
+Title: Remote Procedure Call Runtime Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21921
+KB: KB5009543
+Title: Windows Defender Credential Guard Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21921
+KB: KB5009543
+Title: Windows Defender Credential Guard Security Feature Bypass Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Security Feature Bypass
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21920
+KB: KB5009543
+Title: Windows Kerberos Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21920
+KB: KB5009543
+Title: Windows Kerberos Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21848
+KB: KB5009543
+Title: Windows IKE Extension Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21848
+KB: KB5009543
+Title: Windows IKE Extension Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21849
+KB: KB5009543
+Title: Windows IKE Extension Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21849
+KB: KB5009543
+Title: Windows IKE Extension Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21850
+KB: KB5009543
+Title: Remote Desktop Client Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21850
+KB: KB5009543
+Title: Remote Desktop Client Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21851
+KB: KB5009543
+Title: Remote Desktop Client Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21851
+KB: KB5009543
+Title: Remote Desktop Client Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21916
+KB: KB5009543
+Title: Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21916
+KB: KB5009543
+Title: Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21895
+KB: KB5009543
+Title: Windows User Profile Service Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21895
+KB: KB5009543
+Title: Windows User Profile Service Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21914
+KB: KB5009543
+Title: Windows Remote Access Connection Manager Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21914
+KB: KB5009543
+Title: Windows Remote Access Connection Manager Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21889
+KB: KB5009543
+Title: Windows IKE Extension Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21889
+KB: KB5009543
+Title: Windows IKE Extension Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21890
+KB: KB5009543
+Title: Windows IKE Extension Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21890
+KB: KB5009543
+Title: Windows IKE Extension Denial of Service Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Denial of Service
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21896
+KB: KB5009543
+Title: Windows DWM Core Library Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21896
+KB: KB5009543
+Title: Windows DWM Core Library Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21897
+KB: KB5009543
+Title: Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21897
+KB: KB5009543
+Title: Windows Common Log File System Driver Elevation of Privilege Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Elevation of Privilege
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21898
+KB: KB5009543
+Title: DirectX Graphics Kernel Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21898
+KB: KB5009543
+Title: DirectX Graphics Kernel Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21928
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+Date: 20220111
+CVE: CVE-2022-21928
+KB: KB5009543
+Title: Windows Resilient File System (ReFS) Remote Code Execution Vulnerability
+Affected product: Windows 10 Version 21H1 for x64-based Systems
+Affected component: Issuing CNA
+Severity: Important
+Impact: Remote Code Execution
+Exploit: n/a
+
+[-] Missing patches: 3
+    - KB5009543: patches 156 vulnerabilities
+    - KB5007186: patches 50 vulnerabilities
+    - KB5008876: patches 1 vulnerability
+[I] KB with the most recent release date
+    - ID: KB5009543
+    - Release date: 20220114
+[+] Done. Displaying 207 of the 207 vulnerabilities found.
