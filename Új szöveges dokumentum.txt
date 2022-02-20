@@ -1,0 +1,264 @@
+https://www.youtube.com/watch?v=CWo_mjNjrjA
+https://www.google.hu/search?source=hp&ei=yVmoX5_pM63ClwTIoa7gCw&q=debian+not+compatible+asrock+z370m+pro&oq=debian+not+compatible+asrock+z370m+&gs_lcp=CgZwc3ktYWIQAxgAMgUIIRCgAToICAAQsQMQgwE6BQgAELEDOggILhCxAxCDAToCCAA6BQguELEDOgIILjoICC4QsQMQkwI6BggAEBYQHjoECCEQFToHCCEQChCgAVCREljPa2D_cWgAcAB4AIABgQGIAbIakgEFMjIuMTOYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab
+https://www.youtube.com/watch?v=Eo6-zAN8gKY
+
+windows server administrations for beginners
+https://www.youtube.com/watch?v=hZ2QiiHyTnU
+
+http://ubuntu.hu/node/45250#comment-577596
+C:\Users\misi\dwhelper
+
+alon.hu
+
+https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates-on-ubuntu-16-04
+https://www.google.com/search?client=opera&q=“How+to+Set+Up+a+Host+Name+with+DigitalOcean.”&sourceid=opera&ie=UTF-8&oe=UTF-8
+
+https://www.tecmint.com/hide-apache-web-server-version-information/
+
+https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-16-04
+
+http://ubuntuhandbook.org/index.php/2020/08/install-linux-kernel-5-8-ubuntu/
+
+ubuntu kernel install
+https://linuxhint.com/update_ubuntu_kernel_20_04/
+
+tn vs ips
+
+macre dreamviewerhez hasonló program
+https://blocsapp.com/
+
+blocks alternatíva
+https://www.producthunt.com/alternatives/blocs
+rendszergazdai állások
+https://www.profession.hu/allasok/1,0,0,rendszeruzemelteto?autocorrect=false&gclid=EAIaIQobChMImrX51YfJ7QIVgdOyCh0s-wVZEAAYASAAEgLPK_D_BwE
+
+
+wordpress
+xattacker
+
+https://kalilinuxtutorials.com/obfuscator/
+https://github.com/future-architect/vuls/
+
+ssh with rsa key pair
+https://www.networkreverse.com/2020/06/how-to-remote-ssh-to-ubuntu-server-2004.html
+
+érdekes forensic
+https://hup.hu/blog/21064
+
+xlickjacking
+
+https://developer.mozilla.org/en-US/docs/Web/Security/Types_of_attacks#Click-jacking
+https://www.youtube.com/watch?v=Zm1lQAQOqJ0
+https://www.google.com/search?q=Click-jacking&client=opera&tbm=vid&ei=G6bYX-uxLceTwPAPu_qu8AI&start=10&sa=N&ved=0ahUKEwirq_Pk-M_tAhXHCRAIHTu9Cy4Q8NMDCKEB&biw=1253&bih=647&dpr=1.5
+https://portswigger.net/web-security/clickjacking
+https://www.imperva.com/learn/application-security/clickjacking/
+https://www.imperva.com/products/web-application-firewall-waf/
+https://www.xolphin.com/support/Apache_FAQ/Apache_-_Configuring_HTTP_Strict_Transport_Security
+https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
+https://www.youtube.com/watch?v=E6vc-0z105A
+https://www.youtube.com/results?search_query=how+to+disable+x+frame+options+chrome
+
+
+
+
+
+ssl crime vulnerabilities scanner
+https://github.com/rbsec/sslscan
+
+free domain registration
+http://www.freenom.com/en/index.html
+
+
+configure subdomain
+
+https://medium.com/codespace69/ubuntu-apache-setting-up-subdomain-on-ubuntu-server-5f70e6128633
+https://askubuntu.com/questions/463618/setting-up-subdomain-on-ubuntu-server
+https://serverfault.com/questions/286600/trying-to-create-subdomain-with-apache2
+bind9 and domain registration 
+https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-an-authoritative-only-dns-server-on-ubuntu-14-04
+bind9 alldomains
+https://www.youtube.com/watch?v=Xs7nyvorIjE
+https://www.richinfante.com/2020/02/21/bind9-on-my-lan
+https://www.youtube.com/watch?v=qPn-PlFGVko
+
+idézetek:
+https://hu.pinterest.com/szaboevi1965/gondolatok-b%C3%B6lcsess%C3%A9gek-id%C3%A9zetek/
+bind9
+https://askubuntu.com/questions/991647/dns-set-up-using-bind9-behind-a-router
+https://www.cyberciti.biz/faq/howto-open-dns-port-53-using-ufw-ubuntu-debian/
+https://www.linuxtechi.com/install-configure-bind-9-dns-server-ubuntu-debian/?unapproved=22598&moderation-hash=4219190ef3f4661cb1e98c27b59ca20a#google_vignette
+https://serverfault.com/questions/309622/what-is-a-glue-record
+https://www.google.hu/search?source=hp&ei=5gTdX43oEaGclwSIkLSwDg&q=bind9+configure+public+ip&oq=bind9+configure+public+ip&gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB46CAgAELEDEIMBOggIABDHARCjAjoFCAAQsQM6AggAOg4IABCxAxCDARDHARCjAjoLCAAQsQMQxwEQowI6CAguELEDEIMBOgIILjoFCC4QsQM6DggAELEDEIMBEMcBEK8BOggILhCxAxCTAjoGCAAQFhAeOggIABAWEAoQHjoECAAQEzoICAAQFhAeEBM6CggAEBYQChAeEBM6BQghEKABOgUIABDNAlDcAliraWDGa2gCcAB4AIABdogBuBCSAQQyMi4zmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwiN84vgo9jtAhUhzoUKHQgIDeYQ4dUDCAY&uact=5
+
+
+freenom
+https://serverfault.com/questions/1016299/setting-up-my-own-nameserver-on-freedom-domain
+https://www.google.hu/search?source=hp&ei=FQreX4C7J8SIlwTCgKnwCA&q=freedom+our+dns+server+register&oq=freedom+our+dns+server+regist&gs_lcp=CgZwc3ktYWIQAxgAMgcIIRAKEKABMgcIIRAKEKABMgQIIRAVMgQIIRAVOggIABCxAxCDAToICC4QsQMQgwE6CAgAEMcBEKMCOgIILjoCCAA6BQgAELEDOgsIABCxAxDHARCjAjoFCC4QsQM6DggAELEDEIMBEMcBEK8BOggIABDHARCvAToICC4QsQMQkwI6BggAEBYQHjoECAAQCjoECAAQDToGCAAQDRAeOgUIIRCgAVC9GFiz1QFgrN8BaARwAHgAgAGMAYgBwBeSAQQyOC41mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab
+
+ping pong
+https://www.youtube.com/watch?v=CABqlL02I28
+
+reverse ip lookup
+https://hackertarget.com/reverse-ip-lookup/
+
+glue record
+https://stackoverflow.com/questions/44347263/external-resolve-dns-linux-bind9
+
+appache 2.2.15
+https://www.google.hu/search?ei=c3_uX6v2NuyRrgSQ3rjgDw&q=appache+2.2.15+exploitdb&oq=appache+2.2.15+exploitdb&gs_lcp=CgZwc3ktYWIQAzIGCAAQDRAeMggIABAIEA0QHjoGCAAQFhAeOggIABANEAUQHkoFCAgSATFQxA1Y0ypgtC1oAnAAeACAAV6IAfEIkgECMTOYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjr-5iCz_ntAhXsiIsKHRAvDvwQ4dUDCAw&uact=5
+
+magyar oldalak 
+https://www.google.hu/search?q=inurl:hu&ei=9n_uX9GPKMKtrgTJqZUw&start=0&sa=N&ved=2ahUKEwjR4sXAz_ntAhXClosKHclUBQY4ChDy0wN6BAgGED4&biw=1920&bih=966
+
+vírus és egyéb checker
+https://login.ooo
+
+Web-Presentation-an-Application-in-a-Single-File-n
+https://www.codeproject.com/Articles/5286790/Web-Presentation-an-Application-in-a-Single-File-n
+
+Web Presentation, the Other Way Around
+https://www.codeproject.com/Articles/5290221/Web-Presentation-the-Other-Way-Around
+
+SQL Full Outer Join
+https://www.codeproject.com/Articles/5290894/SQL-Full-Outer-Join
+
+prime in c
+https://www.codeproject.com/Articles/5290250/Integer-Factorization-Dreaded-List-of-Primes
+
+
+https://www.google.com/search?client=opera&hs=def&ei=GyzwX93CK7KsrgSQxZK4AQ&q=iphone+5c+battery+screen+max+light+hours&oq=iphone+5c+battery+screen+max+&gs_lcp=CgZwc3ktYWIQAxgAMgUIIRCgATIFCCEQoAE6BAgAEEc6AggAOgYIABAWEB46CAghEBYQHRAeUJaEAVi89AFg7P4BaABwAngAgAF1iAGaDZIBBDE2LjOYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=psy-ab
+
+in the end 
+dido
+
+openvas install linux
+https://www.youtube.com/watch?v=emyWhF6hAK8&list=PL8AREiyRGV4TMPLwmF0DvJA2vT9r8uDCE&index=1
+
+bind9 with freenom
+https://www.youtube.com/watch?v=ErersMndoU0
+https://www.hostwinds.com/guide/how-to-set-up-dns-using-bind-on-your-server/
+glue records bind9
+
+alap linux dolgok, amiket tudni kell
+https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/
+https://szit.hu/doku.php?id=oktatas:linux:boot
+
+postfix dovecot
+https://linuxtechlab.com/setting-mail-server-postfix-dovecot-squirrelmail/
+https://www.tecmint.com/setup-postfix-mail-server-and-dovecot-with-mariadb-in-centos/
+http://sugo.ubuntu.hu/10.04/html/serverguide/hu/dovecot-server.html
+https://linuxtechlab.com/setting-mail-server-postfix-dovecot-squirrelmail/
+https://www.linuxbabe.com/mail-server/setup-basic-postfix-mail-sever-ubuntu
+https://www.linuxbabe.com/mail-server/ubuntu-20-04-iredmail-server-installation
+https://unixlinux.tmit.bme.hu/Egyszerű_email-szerver_építése
+
+wp védelem
+https://www.youtube.com/watch?v=JHPAa1uqfSM
+
+facemask detection python tensorflow
+https://github.com/yahiya6006/Face-Mask-detector-using-tensorflow-lite-model/tree/master/FaceMask_tflite
+https://www.youtube.com/watch?v=T9EEGfUuSFc
+
+php step by step
+https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating
+
+linux hasznos alapok
+http://xahlee.info/linux/linux_package_system.html	
+
+https://php-script.hu/tutorial/lista/php
+http://gmkxv.hu/
+http://uj.kispest.hu/
+enthouse.hu
+https://drhorvathtamas.com
+https://hup.hu/node/159170
+
+fontos cve
+
+https://www.bleepingcomputer.com/news/security/microsoft-urges-customers-to-patch-critical-windows-tcp-ip-bugs/
+
+https://www.youtube.com/watch?v=oFVFY8TOtp0
+google
+
+zene
+https://www.youtube.com/watch?v=hE0dUJkrFug
+https://www.youtube.com/watch?v=ilBCEIREIaY
+https://www.youtube.com/watch?v=_pqOgqvPoMo
+https://videas.cc/videa-film/az-oroszlankiraly-2019/
+
+http://www.fport.hu/index.php?site=cidr
+
+90-es évek magyar slágerei
+https://www.youtube.com/watch?v=mQqjd6XGkL4
+https://www.youtube.com/watch?v=mQqjd6XGkL4
+
+
+forensics
+https://www.youtube.com/watch?v=HU_euJyxYB4
+
+dalok
+https://www.youtube.com/watch?v=LDgOFUbpy6Q
+soulwave
+
+török sorozatok
+https://www.facebook.com/groups/284900911997084/
+török dalok
+https://www.facebook.com/groups/1654789267875065
+
+
+nod32
+https://esetkey2022.blogspot.com/2021/12/eset-internet-security-license-keys-2022.html
+
+fud payload
+https://xploitlab.com/exocet-tool-to-create-undetectable-malware-by-antivirus/
+
+
+python vlc
+https://stackoverflow.com/questions/56103533/how-can-i-control-vlc-media-player-through-a-python-scripte
+https://stackoverflow.com/questions/9372672/how-does-vlc-py-play-video-stream
+https://www.google.com/search?q=live+stream+m3u8+link&client=opera&biw=1253&bih=647&ei=bAnfYbQRgY727w-0x4DoCA&oq=live+stream+m3&gs_lcp=Cgdnd3Mtd2l6EAMYATIECAAQEzIECAAQEzIECAAQEzIICAAQFhAeEBMyCAgAEBYQHhATMggIABAWEB4QEzIICAAQFhAeEBMyCAgAEBYQHhATMggIABAWEB4QEzIICAAQFhAeEBM6BwgAEEcQsAM6BwguELADEEM6BwgAELADEEM6CAgAEOQCELADOhAILhDHARDRAxDIAxCwAxBDOgoILhDIAxCwAxBDOggIABCABBCxAzoGCAAQBxAeOgUIABCABDoGCAAQFhAeSgQIQRgASgQIRhgBSgUIRBjUCEoECEMYA1DoB1iWP2DXSmgDcAJ4AYABcIgBuQSSAQM0LjKYAQCgAQHIARPAAQE&sclient=gws-wiz
+https://www.google.com/search?q=vlc+automatization+python&client=opera&hs=Iz4&ei=rwHfYbvgG4TnsAfotZCoAw&oq=vlc+automatization+pytj&gs_lcp=Cgdnd3Mtd2l6EAMYADIHCCEQChCgAToHCAAQRxCwAzoECAAQQzo
+https://www.google.com/search?q=python+vlc+play+stream&client=opera&hs=h54&ei=PAPfYaz4DdG2kwWW3biABg&oq=python-vlc+play+&gs_lcp=Cgdnd3Mtd2l6EAEYBDIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIABBHELADSgQIQRgASgQIRhgASgQIQxgBUJktWJVBYLVZaAJwAngAgAFuiAHjA5IBAzMuMpgBAKABAcgBCMABAQ&sclient=gws-wiz
+
+szempilla számoló
+https://www.youtube.com/watch?v=-TVUwH1PgBs
+
+ctfek listája
+https://www.youtube.com/c/MotasemHamdaninfosec/playlists
+
+űrkutatás
+https://www.youtube.com/c/Űrkutatásmagyarul/videos
+
+VIRUSOS OLDAL
+https://www.youtube.com/watch?v=hHWzOhXHYxk
+https://www.mediafire.com/file/mymun33526xy3nx/Nod32_eset_security.zip/file
+https://www.youtube.com/watch?v=54NXLMQ74DY
+https://www.mediafire.com/file/mymun33526xy3nx/Nod32_eset_security.zip/file
+https://www.mediafire.com/file/8mbqrvv4eriycb8/EsetNod32Security.zip/file
+https://www.mediafire.com/file/qh2j1pqa8s98n43/Nod32_eset_security.zip/file
+https://www.mediafire.com/file/2yxh6kjirhunifs/EsetNod32Security.zip/file
+https://www.mediafire.com/file/m91lc9h855l709u/EsetNod32Security.zip/file
+
+https://www.mediafire.com/file/cww0swk77l2xxu7/Nod32_eset_security.zip/file
+
+
+exchange server fix
+https://www.youtube.com/watch?v=qyoRdwLABT4
+https://www.youtube.com/watch?v=lOI-v9qeHys
+
+https://www.zerodayinitiative.com/blog/2022/1/11/the-january-2022-security-update-review
+
+https://www.youtube.com/watch?v=WrsAYr-_J4Q
+
+multiboot
+https://www.youtube.com/watch?v=ng8emZvia_c
+
+
+
+
+linuxos dolgok
+https://www.omgubuntu.co.uk/2019/11/hide-mounted-drives-ubuntu-dock
+https://fostips.com/hide-mounted-drives-ubuntu-21-04/
+https://fostips.com/antivirus-scan-ubuntu-debian/
+https://fostips.com/linux-desktop-environments/
+https://fostips.com/hide-mounted-usb-partitions-ubuntu-20-10/
+https://askubuntu.com/questions/124094/how-to-hide-an-ntfs-partition-from-ubuntu
